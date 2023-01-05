@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672593830 source:c:\agung files\kuliah\semester 3\struktur data\minggu 15\tree\main.cpp
+	<iostream>
+	"Tree.h"
+
+1672593295 c:\agung files\kuliah\semester 3\struktur data\minggu 15\tree\tree.h
+	<iostream>
+
+1672593993 source:c:\agung files\kuliah\semester 3\struktur data\minggu 15\tree\tree.cpp
+	"Tree.h"
+
